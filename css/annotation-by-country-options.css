@@ -1,0 +1,14 @@
+.wrap-annotation-by-country > h2:before {
+  font-family: "dashicons";
+  content: "\f108";
+  font-size: 1.2em;
+  vertical-align: -20%;
+}
+
+input#geolite2_database_path,input#geolite2_php_path {
+	width: 50%;
+}
+
+input#geolite2_default_country_code {
+	width: 2.5em;
+}
